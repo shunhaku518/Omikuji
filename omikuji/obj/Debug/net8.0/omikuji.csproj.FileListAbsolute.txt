@@ -1,0 +1,15 @@
+C:\Users\anel4\source\repos\omikuji\omikuji\bin\Debug\net8.0\omikuji.exe
+C:\Users\anel4\source\repos\omikuji\omikuji\bin\Debug\net8.0\omikuji.deps.json
+C:\Users\anel4\source\repos\omikuji\omikuji\bin\Debug\net8.0\omikuji.runtimeconfig.json
+C:\Users\anel4\source\repos\omikuji\omikuji\bin\Debug\net8.0\omikuji.dll
+C:\Users\anel4\source\repos\omikuji\omikuji\bin\Debug\net8.0\omikuji.pdb
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfoInputs.cache
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.AssemblyInfo.cs
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.csproj.CoreCompileInputs.cache
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.sourcelink.json
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.dll
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\refint\omikuji.dll
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.pdb
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\omikuji.genruntimeconfig.cache
+C:\Users\anel4\source\repos\omikuji\omikuji\obj\Debug\net8.0\ref\omikuji.dll
